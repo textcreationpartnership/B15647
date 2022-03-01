@@ -1,0 +1,521 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Satyræ seriæ, or, The Secrets of things written in morall and politicke observations.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1640</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 69 KB of XML-encoded text transcribed from 72 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B15647</idno>
+            <idno type="STC">STC 21771.5</idno>
+            <idno type="STC">ESTC S116797</idno>
+            <idno type="EEBO-CITATION">33143330</idno>
+            <idno type="OCLC">ocm 33143330</idno>
+            <idno type="VID">17310</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B15647)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 17310)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1006:1 or 1883:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Satyræ seriæ, or, The Secrets of things written in morall and politicke observations.</title>
+               </titleStmt>
+               <extent>[9], 133, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Okes, for Abel Roper, and are to be sold at his shop at the blacke spread Eagle over against St. Dunstans Church in Fleetstreet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1640.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata: p. [1] at end.</note>
+                  <note>"Imprimatur: Tho. Wykes. Martij 18. 1639."--facing t.p.</note>
+                  <note>Signatures: A-F¹².</note>
+                  <note>This item appears at reel 1006:1 as STC 21771.</note>
+                  <note>Reproduction of original in: Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Conduct of life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2014-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="imprimatur">
+            <pb facs="tcp:17310:1"/>
+            <p> Imprimatur </p>
+            <closer>
+               <signed>THO. WYKES.</signed>
+               <dateline>
+                  <date>
+                     <hi>Martij</hi> 18. 1639.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:17310:1"/>
+            <p> Satyrae ſeriae: <hi>OR,</hi> The Secrets of things; written in Morall and Politicke Ob<g ref="char:EOLhyphen"/>ſervations.</p>
+            <p>
+               <hi>Vtilius libri ſcribuntur ad in<g ref="char:EOLhyphen"/>crementum literarum, &amp; li<g ref="char:EOLhyphen"/>terae frequentius habentur ad augmentum librorum.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>J. Okes,</hi> for <hi>Abel Roper,</hi> and are to be ſold at his ſhop at the blacke ſpread Eagle over aginſt St. <hi>Dunſtans</hi> Church in <hi>Fleetſtreet.</hi> 1640.</p>
+            <pb facs="tcp:17310:2"/>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:17310:2"/>
+            <head>
+               <hi>TO THE</hi> READER.</head>
+            <p>
+               <seg rend="decorInit">S</seg>OME adviſe to put ones Thoughts into VVords, leſt they prove ungratefull &amp; ſmother their owner:
+<pb facs="tcp:17310:3"/> Others to put a Mans Words into Writing, leſt they paſſe for what they are not: So that like unto thoſe I have unfolded my thoughts, to ſee what <hi>complexion</hi> they are of in the open light; ſince nothing is more preiudiciall to a diſcreet value of things, than to ſee them at halfe and counterfeit ſhadows.
+<pb facs="tcp:17310:3"/> I have not delivered them with inſinuati<g ref="char:EOLhyphen"/>ons, or advantages of Art, for Eſſaies are but the Images of af<g ref="char:EOLhyphen"/>faires, which being quickned with the life and vigour of profit or pleaſure, may adde motion to your liking: and theſe are only Speeches, the repreſentation of <hi>mens</hi> thoughts, and there<g ref="char:EOLhyphen"/>fore may challenge an
+<pb facs="tcp:17310:4"/> eaſier acceſſe unto them, being of their owne nature inſinua<g ref="char:EOLhyphen"/>ting, and returning into Mens boſomes, whence they came.</p>
+            <closer>
+               <salute>Farewell.</salute>
+            </closer>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:17310:4"/>
+            <head>The Heads of the chiefeſt things contained in this Book.</head>
+            <list>
+               <item>1 OF Ceremonies and ci<g ref="char:EOLhyphen"/>vill Complements.</item>
+               <item>2 Of multiplicity of books.</item>
+               <item>3 Of Fortune.</item>
+               <item>4 Of the wiſdome of ſpeech.</item>
+               <item>5 Of truſt and diſtruſt.</item>
+               <item>6 Of Jeſts.</item>
+               <item>7 Of Love.</item>
+               <item>8 Of Contemplation and Action.</item>
+               <item>9 Of Deceits and errours.</item>
+               <item>10 Of Content.</item>
+               <pb facs="tcp:17310:5"/>
+               <item> 11 Of Friendſhip.</item>
+               <item>12 Of Silence.</item>
+               <item>13 Of Queſtions.</item>
+               <item>14 Of Life.</item>
+               <item>15 Of Sciences.</item>
+               <item>16 Of Dangers.</item>
+               <item>17 Of precepts of Policy.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:17310:5"/>
+            <head>Satyrae ſeriae: OR, The Secrets of things; written in Morall and Politick <hi>Diſcourſes.</hi>
+            </head>
+            <div n="1" type="part">
+               <head>1 Of Ceremonies and civill Complements.</head>
+               <p>
+                  <seg rend="decorInit">O</seg>NE ſaith wiſely, that Ceremonies are but the <hi>tranſ<g ref="char:EOLhyphen"/>lation of Vertue into the</hi>
+                  <pb n="2" facs="tcp:17310:6"/> 
+                  <hi>knowne Tongue, the diſtin<g ref="char:EOLhyphen"/>ctions and ful poynts, with<g ref="char:EOLhyphen"/>out which they could not be underſtood:</hi> If we be ſo carefull in the ſet formes of Speech and Language, why not in Action &amp; Ge<g ref="char:EOLhyphen"/>ſture? the one ſpeakes to the eye, the other to the eare: They are but Tran<g ref="char:EOLhyphen"/>ſitory Hyeroglyphicks; and not to uſe them, be<g ref="char:EOLhyphen"/>ſpeakes neglect to others, when themſelves are beſt expreſt by a ſeeming neg<g ref="char:EOLhyphen"/>lect. It is the minde that is capable of a decent carriage, which if you firſt make expert, they will be better expreſt to the life,
+<pb n="3" facs="tcp:17310:6"/> than onely by an apiſh imitation of corporall action. To uſe them too much towards inferiours, is popularity: to uſe them towards equalls, is civili<g ref="char:EOLhyphen"/>ty and love: towards ſu<g ref="char:EOLhyphen"/>periours, they become re<g ref="char:EOLhyphen"/>verence and companions of their honour; for bow<g ref="char:EOLhyphen"/>ed heads, bare caps, cere<g ref="char:EOLhyphen"/>monies and reſpects doe make honor ſo deſireable; and the weakeſt look no farther than to theſe out<g ref="char:EOLhyphen"/>ward accidents; never thinking that true bravery and honour conſtſts in <hi>Honerante, non honorato,</hi> not onely in formality of
+<pb n="4" facs="tcp:17310:7"/> worſhip, but a mentall re<g ref="char:EOLhyphen"/>verence to their vertue, which is the moſt worthy part of dignity. Though of themſelves they be light and vaine, yet they have that command in the reſpects of men, by reaſon of that which they uſe to ſignifie; that ſome whoſe minds are below the performance of no<g ref="char:EOLhyphen"/>bler vertues, doe ſeeke re<g ref="char:EOLhyphen"/>putation by comlineſſe of going: it is good to have a commanded carriage, and not to let the errours of the mind bee diſcove<g ref="char:EOLhyphen"/>red by the negligence of looks: it appeares by the
+<pb n="5" facs="tcp:17310:7"/> truth of the old Adage, that they are ſignificative, and not onely Mutes: <hi>Nil intereſt habere oſtium apertum, vultum clauſum.</hi>
+               </p>
+            </div>
+            <div n="2" type="part">
+               <head>2 Of the Multiplicity of Bookes.</head>
+               <p>THe moſt Books adde rather bulke to the body of Learning, than ſpirit and quickneſſe of inventions, as a ſoule an<g ref="char:EOLhyphen"/>ſwerable, which by diffu<g ref="char:EOLhyphen"/>ſion weakens and makes ſlow the courſe of know<g ref="char:EOLhyphen"/>ledge.</p>
+               <pb n="6" facs="tcp:17310:8"/>
+               <p> In Bookes, the relati<g ref="char:EOLhyphen"/>ons of affaires are framed in the mold of the under<g ref="char:EOLhyphen"/>ſtanding, by way of ex<g ref="char:EOLhyphen"/>preſſion, which makes thoſe things that are writ have a ſhape and appea<g ref="char:EOLhyphen"/>rance of a more perfecti<g ref="char:EOLhyphen"/>on than thoſe things which are done. They endeavour to bee either Delian divers of Queſti<g ref="char:EOLhyphen"/>ons, or to have the ilumi<g ref="char:EOLhyphen"/>nation of an Interpreter or the name of an exact Methodiſt: and for the variety of them and their adulatory Dedications, I may ſay of them as of our Farthings, the im<g ref="char:EOLhyphen"/>preſſion
+<pb n="7" facs="tcp:17310:8"/> makes them goe the curranter, though the matter debaſeth them: books are only freed from the power of Oblivion, which is the occaſion the Poets did promiſe to themſelves an immortali<g ref="char:EOLhyphen"/>ty of name; eſteeming all other things as ſubject to the inconſtancy of af<g ref="char:EOLhyphen"/>faire and period of time.</p>
+               <q>Pectoris exceptis ingeniij<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> bonis.</q>
+               <p>Which is the meaning of that Fable of theirs, how that in the end of the threed of every mans life
+<pb n="8" facs="tcp:17310:9"/> there is a certaine coyne affixt, upon which is writ the name of the dead par<g ref="char:EOLhyphen"/>ty; which as ſoone as the Siſter hath cut, ſhee throwes them into the River <hi>Lethe;</hi> but about the River there flyes a great company of Birds, which do carry the coyne a little way in their beaks, and afterward careleſſely let them fall againe: but amongſt thoſe Birds there are found ſome Swans, which if they light with a Coyne upon ones name on it, they preſently carry it to the Temple, devo<g ref="char:EOLhyphen"/>ting it to perpetuity:
+<pb n="9" facs="tcp:17310:9"/> Bookes are the Coynes on which mens names are writ; thoſe of an ordinary flight, they endure for a time, but preſently are forgot; but if there bee one who can ſing well, they are carryed on the wings of true Fame, and as Swans leave the ſwee<g ref="char:EOLhyphen"/>teſt notes to poſterity. Bookes are the beſt Coun<g ref="char:EOLhyphen"/>cellors, the beſt Compa<g ref="char:EOLhyphen"/>nions, and the beſt heires of a mans knowledge; they be the Monuments wherein lye hid the ſacred reliques of Knowledge &amp; Wiſedome; and the rea<g ref="char:EOLhyphen"/>ſon, why the multiplicity
+<pb n="10" facs="tcp:17310:10"/> of Bookes yeelds not ad<g ref="char:EOLhyphen"/>vancement to learning is, becauſe they are but as ri<g ref="char:EOLhyphen"/>volets, drawne as it were from the Fountaine of ſome Author, and con<g ref="char:EOLhyphen"/>veied by the ſecret paſſa<g ref="char:EOLhyphen"/>ges of mens underſtan<g ref="char:EOLhyphen"/>dings and fancies, returne to it againe; keeping ſtill the ſame levell with the Well-ſpring, which de<g ref="char:EOLhyphen"/>nies a further riſe. It is a good rule in Naturall Philoſophy, <hi>Interitus rei arcetur per reductionem ejus ad principia,</hi> which is a good rule alſo in the courſe of Learning; for commonly for preven<g ref="char:EOLhyphen"/>tion
+<pb n="11" facs="tcp:17310:10"/> of corruption in Letters, there needs the reducing of the under<g ref="char:EOLhyphen"/>ſtanding to the firſt O<g ref="char:EOLhyphen"/>riginall: and ſometimes if they beginne not againe the ſent will grow cold: To write in that in which there is no beaten path, is moſt honourable; for hee that leads hath this advan<g ref="char:EOLhyphen"/>tage above others, (ſaith learned <hi>Hooker)</hi> if others follow him, he hath the glory of it: if not, hee hath the excuſe of prejudice.</p>
+            </div>
+            <div n="3" type="part">
+               <pb n="12" facs="tcp:17310:11"/>
+               <head>3. Of Fortune.</head>
+               <p>I Will not ſpeake of the actions of men, as they are the children of Divine providence: Nor will I aſcribe an <hi>Apotheoſis</hi> to <hi>Fortune;</hi> but will onely view the power and acti<g ref="char:EOLhyphen"/>vity of mans reaſon, in the nimble apprehenſion and taking hold of occaſions, to ſee how farre outward Circumſtances doe con<g ref="char:EOLhyphen"/>duce to the making of a mans owne Fortune. It was the ſaying of a
+<pb n="13" facs="tcp:17310:11"/> great one, that however he knew that rule, that <hi>quiſque fortunae ſuae faber,</hi> yet the moſt in number were thoſe, who ſpoyled their owne fortunes. It is an Art which moſt mens invention have flowed into; &amp; yet is ſtill capable of renovation, as it were, by the incertainty of af<g ref="char:EOLhyphen"/>fairs ſo curiouſly involved by mutuall relation, which is <hi>Tacitus</hi> his obſerva<g ref="char:EOLhyphen"/>tion of a too ſuperſtious Conſtancy in that Empe<g ref="char:EOLhyphen"/>rour to his old way, in which once hee proved fortunate, <hi>idem manebat, &amp; idem dicebat:</hi> So that
+<pb n="14" facs="tcp:17310:12"/> ſome through an imbecil<g ref="char:EOLhyphen"/>lity of mind, not knowing to make a departure from the gravity of their uſuall pace, doe oftentime, with that <hi>Spaniard</hi> in the ſtory, undergoe the laſh of For<g ref="char:EOLhyphen"/>tune: <hi>Qui reſpicit adven<g ref="char:EOLhyphen"/>tos non ſeminat,</hi> ſaith <hi>So<g ref="char:EOLhyphen"/>lomon;</hi> ſo that there is re<g ref="char:EOLhyphen"/>quired a judicious obſer<g ref="char:EOLhyphen"/>vancy of time, as well as a prudent making of occa<g ref="char:EOLhyphen"/>ſions. He that would be a Maſter in the Art, muſt diſcerne his <hi>Elogium,</hi> who was ſaid to be <hi>adeo verſa<g ref="char:EOLhyphen"/>tilis ingenij, ut quocunque loco viveret; fortunam ſibi fabricare viſus eſt.</hi> There
+<pb n="15" facs="tcp:17310:12"/> are ſome of that temper; the pulſe of whoſe affecti<g ref="char:EOLhyphen"/>on ſtill beats after the mo<g ref="char:EOLhyphen"/>tion of honour, who had rather be not good than not great; &amp; therfore will caſt about the miſt of de<g ref="char:EOLhyphen"/>ceite, to blind the eye of your apprehenſion, and by corrupt counſailes endea<g ref="char:EOLhyphen"/>vour to riſe from the clouds of diſgrace, to ſee the ſunne of honour; but <hi>apparent rari.</hi> Others will bring all their Elogies of their worth upon the ſtage of honour, where they would gladly diſplay themſelves; they will cry after Fortune, and court
+<pb n="16" facs="tcp:17310:13"/> her, like a peeviſh Miſtris, into diſdaine of them, till at laſt they prove but ſwolne bubles, which the leaſt winde of adverſity makes them evapourate into their owne element. Honor is vertues reward, and is no more than the reflexive beames of the ſun of vertue, and gives only to good wils in a lar<g ref="char:EOLhyphen"/>ger extent to exerciſe themſelves in, as an open field; &amp; therfore it muſt be uſed as in the open region of the Common-wealth, not in the incloſures of ones own particular ends and reſpects: Hee muſt
+<pb n="17" facs="tcp:17310:13"/> ſtudy well the nature of the preſent times, who would bee an inſtrument of ſtate; for otherwiſe his underſtanding may prove an unfit match for ſervice of Majeſty; <hi>impar con<g ref="char:EOLhyphen"/>greſſus Vlyſi.</hi> Hee muſt know himſelfe as well as the times, and others as well as himſelfe: <hi>Qui ſapit innumeris moribus aptus orit;</hi> and as <hi>Tully</hi> ſaith <hi>pro<g ref="char:EOLhyphen"/>prium hoc eſſe prudentiae ſtatuit, conciliare ſibi ani<g ref="char:EOLhyphen"/>mos hominum, &amp; ad uſus ſuos adjungere.</hi> To proſti<g ref="char:EOLhyphen"/>tute a mans time too much to the fleſhy thoughts of Fortune, taſts
+<pb n="18" facs="tcp:17310:14"/> of the ſtomacke of the <hi>Iſ<g ref="char:EOLhyphen"/>raelite:</hi> and ſurely thoſe thoughts ſpent on riches, will devoure thoſe which ſhould bee for the Tem<g ref="char:EOLhyphen"/>ple: whence comes thoſe corrupt axioms, <hi>Proſperu<g ref="char:cmbAbbrStroke">̄</g> &amp; felix ſcelus virtus voca<g ref="char:EOLhyphen"/>tur. Aeſope</hi> ſaith wittily, <hi>multa novit vulpes, ſed n<g ref="char:EOLhyphen"/>uum magnum felis;</hi> which is no more than the cer<g ref="char:EOLhyphen"/>tainty of a friend for ones fortune, and ho<g ref="char:EOLhyphen"/>neſty for ones ſelfe: its like the Sun which gives a great light; whereas the Starres, though more in number, doe not all ſhine ſo bright, <hi>ſapiens domina<g ref="char:EOLhyphen"/>bitur</hi>
+                  <pb n="19" facs="tcp:17310:14"/> 
+                  <hi>aſtris.</hi> It is no ſmall part of policy to diſtin<g ref="char:EOLhyphen"/>guiſh of fortune and occa<g ref="char:EOLhyphen"/>ſion, its eaſier to ſee the one than retain the other: <hi>faciliùs for tunam reperias, quam retineas:</hi> Riches are ſometimes vertues orna<g ref="char:EOLhyphen"/>ment, ſometimes vices puniſhment; and ſurely it hath a diverſe operation, according to the diffe<g ref="char:EOLhyphen"/>rence of the materialls it meets withall; <hi>The proſpe<g ref="char:EOLhyphen"/>rity of fooles ſhall ſlay them; Limus nt hic dureſcit, &amp;c.</hi> Some in the making of their owne fortunes, are well ſtudied in men, but know not the nature of
+<pb n="20" facs="tcp:17310:15"/> buſineſſes, nor worth of favours: others onely wiſe by rule; and maxims of particular government looke not into the nature and quality of their com<g ref="char:EOLhyphen"/>petitors, and thoſe whom they have to deale with: ſo that betwixt theſe two obſervations of extreams, one might extract an exact patterne: take ſome of both, and it will prove a good compoſition; as well ſome of the know<g ref="char:EOLhyphen"/>ledge of perſons, as excel<g ref="char:EOLhyphen"/>lency of art of policy.</p>
+            </div>
+            <div n="4" type="part">
+               <pb n="21" facs="tcp:17310:15"/>
+               <head>4 Of Wiſedome of Speech.</head>
+               <p>SPeech (ſaith <hi>Scaliger)</hi> being but a Sarment of Nature, covereth either the ſouldier as with Arms for neceſſity; or as a Gowne the Senator for profit; or as a more dain<g ref="char:EOLhyphen"/>ty garment the curious Ci<g ref="char:EOLhyphen"/>tizen for pleaſure: it con<g ref="char:EOLhyphen"/>ſociateth the remoteſt re<g ref="char:EOLhyphen"/>gions of mens hearts, by the participation of one anothers thoughts: and
+<pb n="22" facs="tcp:17310:16"/> therefore I can call Diſ<g ref="char:EOLhyphen"/>courſe by no apter title, than to be the <hi>vehicula co<g ref="char:EOLhyphen"/>gitationum,</hi> and therefore they ſhould ſtill runne e<g ref="char:EOLhyphen"/>ven with the wheeles of their thoughts. Theſe were the ancient decrees of truth, they counted it an happineſſe of the un<g ref="char:EOLhyphen"/>derſtanding to be inlight<g ref="char:EOLhyphen"/>ned with it, a weight of labour to ſearch it, but the glory of humane nature to ſpeake it. <hi>Ante omnia mi fili cuſtodi cor tuum,</hi> thoughts are but the chil<g ref="char:EOLhyphen"/>dren of the heart, as ſpeech is of the thoughts; the prudency of whoſe
+<pb n="23" facs="tcp:17310:16"/> direction is of excellent uſe, view it either in the glaſſe of Divinity or Poli<g ref="char:EOLhyphen"/>cy: and even in the buil<g ref="char:EOLhyphen"/>ding up of the fabricke of a mans own fortune, there is no ſmall wiſedome in poliſhing and framing the materialls of ordinary talke: Every ſpeech ac<g ref="char:EOLhyphen"/>quaints us either with the matter which we aske, or the minde of the ſpeaker which hee delivers: the perfection of the art of ſpeech to others, conſiſts in a volubility of applica<g ref="char:EOLhyphen"/>tion, and as one ſaith, if a man would come to an excellency of it, if he were
+<pb n="24" facs="tcp:17310:17"/> to ſpeake with a hundred perſons, he ſhould vary his ſtile to each: which Art <hi>Alexander</hi> ſeemes well to have knowne: whilſt hee animates his Souldiers, ſome with the hope of Wealth, incenſt the am<g ref="char:EOLhyphen"/>bitious with the heat of Honour, provoked the malicious, with the re<g ref="char:EOLhyphen"/>membrance of the former grudges betwixt the two Nations: Thus ſpeeches which have an edge, enter ſooner the affections; than dull and ſlow expreſſion. It would not be unuſefull to have the knowledge of the ſeverall formes of
+<pb n="25" facs="tcp:17310:17"/> ſpeech; of ſuddaine que<g ref="char:EOLhyphen"/>ſtions, of ſuſpended an<g ref="char:EOLhyphen"/>ſwers, and a great variety of others, in which they thinke<g ref="char:punc">▪</g> no ſmall policy conſiſts: together with the apprehenſion of the colours of praiſe and diſpraiſe of vice and ver<g ref="char:EOLhyphen"/>tue: but in the uſe of theſe a man ſhould have rather a largeneſſe of underſtan<g ref="char:EOLhyphen"/>ding, to turne themſelves in with dexterity, than to be tied to the ſtraightneſſe of a few rules of remem<g ref="char:EOLhyphen"/>brance. To have wiſe<g ref="char:EOLhyphen"/>dome grounded in the heart, and no too much in the tongue, becomes
+<pb n="26" facs="tcp:17310:18"/> policy: <hi>Loquendum ut vulgus, ſentiendum ut ſapientes.</hi> Words ought to become the perſon who uſeth them: which <hi>Tacitus</hi> intimates, ſpea<g ref="char:EOLhyphen"/>king of <hi>Auguſtus: Auguſto profluens &amp; quae principe<g ref="char:cmbAbbrStroke">̄</g> deceret, fuit oratio. Se<g ref="char:EOLhyphen"/>neca</hi> notes alſo a danger, when words are not quickned with the life of reaſons; but are onely ut<g ref="char:EOLhyphen"/>tered with a kind of plau<g ref="char:EOLhyphen"/>ſibility of the ſpeaker. <hi>No<g ref="char:EOLhyphen"/>cet illis eloquentia quibus amorem facit ſui, non ora<g ref="char:EOLhyphen"/>tionis:</hi> imitatio<g ref="char:cmbAbbrStroke">̄</g> of others, however uſefull, yet is ſervile; becauſe it ſhould
+<pb n="27" facs="tcp:17310:18"/> come from the fluency of a happy imitation: but this is rather to be refer<g ref="char:EOLhyphen"/>red to the characters of ſtile and oratory, than to a ſerious obſervation: E<g ref="char:EOLhyphen"/>loquence makes for the credit of the matter; but to ſpeak agreeably to whom you direct your ſpeech, ſhews more of the wiſdom of the perſon: Thoſe who have the ſtile of eloque<g ref="char:cmbAbbrStroke">̄</g>ce, do rather uſe the applauſe of it for pardon of faults, than for ſuffrage to ver<g ref="char:EOLhyphen"/>tues merits. Thus to know the parts of ſpeech, is not onely the part of a good Grammarian, but a Polique.</p>
+            </div>
+            <div n="5" type="part">
+               <pb n="28" facs="tcp:17310:19"/>
+               <head>5 Of Truſt and Diſtruſt.</head>
+               <p>IT cannot be denyed but that the ſafeſt rule to truſt to, not to bee decei<g ref="char:EOLhyphen"/>ved, is to to diſtruſt. A Religious ſuſpition is a good antidote againſt the poyſon of Vice, which ſtill the divell inſtills into us with a deceitfull plea<g ref="char:EOLhyphen"/>ſure, putting an impoſture upon their underſtanding. Our Saviours prophecy of the latter times enjoyns this Caution: <hi>Cum venerit</hi>
+                  <pb n="29" facs="tcp:17310:19"/> 
+                  <hi>filius hominis, non inve<g ref="char:EOLhyphen"/>niet fidem ſuper terram.</hi> There is a diſtruſt com<g ref="char:EOLhyphen"/>manded to Doctrines, to Men, to Times: and how<g ref="char:EOLhyphen"/>ever we bee all from one common lumpe of the earth, that we might ſeem to keep a greater diſtance from men, than the com<g ref="char:EOLhyphen"/>mon Relation of Nature doth require, hee who ſaid love one another, which is <hi>Charities</hi> Rule, the ſame bids us joyne the innocency of the Dove with the wiſedome of the Serpent; which is <hi>Prudence</hi> Rule. It is a di<g ref="char:EOLhyphen"/>greſſio<g ref="char:cmbAbbrStroke">̄</g> from the ordinary
+<pb n="30" facs="tcp:17310:20"/> Law of Charity, to enter<g ref="char:EOLhyphen"/>tertaine ſuſpitions, which onely flye in the night of a mans ignorance. It's the ſtile of Policy to di<g ref="char:EOLhyphen"/>ſtruſt, where by probabi<g ref="char:EOLhyphen"/>lity of appearance it may give ſecurity. To let e<g ref="char:EOLhyphen"/>very thing receive a mans owne additions; which are formed in the weake modell of a doubtfull fan<g ref="char:EOLhyphen"/>cy, diſtracts judgement; and though men that are moſt ſenſible of their own imperfections, wil ſooneſt expect deficiencies from others: yet it is ſafe to thinke there is ſomewhat lyes hid, which he doth
+<pb n="31" facs="tcp:17310:20"/> not apprehend; for it col<g ref="char:EOLhyphen"/>lects the underſtanding, admits not of any thing without due examinati<g ref="char:EOLhyphen"/>on; for many through want of venting the exta<g ref="char:EOLhyphen"/>ſies of their breaſts, have turned, dyed with the paleneſſe of envy, which have put the whole frame of their compoſition out of joynt<g ref="char:punc">▪</g> and we may wel decline from the truſt to others, when it is not al<g ref="char:EOLhyphen"/>wayes ſafe to truſt: our ſelves. The heart of man is deceitfull, which like a Magicke glaſſe, repreſents the forms of things which are not: Therefore firſt
+<pb n="32" facs="tcp:17310:21"/> proceede from a know<g ref="char:EOLhyphen"/>ledge and caution to your ſelfe, to that of others; ſo it may prove a wholſome exorciſme, leſt you might ſwell too great in ſelfe e<g ref="char:EOLhyphen"/>ſteeme: the flatterer com<g ref="char:EOLhyphen"/>poſeth the modell of your owne deſires, your ſelfe being the Archetype: therefore firſt let them be viewed in reaſons light, &amp; the others as things im<g ref="char:EOLhyphen"/>perfectly mixed, are obſcu<g ref="char:EOLhyphen"/>red: <hi>Palle ſcunt phoebo ra<g ref="char:EOLhyphen"/>dios jaculante cometae. Machiavell</hi> doth well to acquaint the world with the common practice of men: for it induceth vi<g ref="char:EOLhyphen"/>gilancy
+<pb n="33" facs="tcp:17310:21"/> to faire ſeeming actions and geſtures pre<g ref="char:EOLhyphen"/>tending to amity, which are nothing but the <hi>ali<g ref="char:EOLhyphen"/>menta ſocordiae:</hi> For you ſhall have a man give you the ſmoothneſſe of his countenance to bee taken hold of; whilſt he ſtudies evaſion by the ſliperineſſe of his fancy. A fairer looke than ordinary to<g ref="char:EOLhyphen"/>wards the Spaniard, puts him into a preſent ſuſpiti<g ref="char:EOLhyphen"/>on of his owne ſafety. In friendſhip it is a good rule <hi>odi tanquam amaturus, &amp; ama tanquam oditurus.</hi> In<g ref="char:EOLhyphen"/>ſinuations of amity are dangerous ſymptomes of
+<pb n="34" facs="tcp:17310:22"/> a perfidious diſpoſition. It is an ordinary cuſtome for one man to build his fortunes out of the ruines of another: wee ſee the manner of Natures production of things, how commonly the cor<g ref="char:EOLhyphen"/>ruption of one thing, is the generation of ano<g ref="char:EOLhyphen"/>ther: and how many have generated their owne for<g ref="char:EOLhyphen"/>tunes, for taxing the cor<g ref="char:EOLhyphen"/>ruptions of other men: And ever note, that where there is too great a facili<g ref="char:EOLhyphen"/>ty of beleeving, there is alſo a willingneſſe of de<g ref="char:EOLhyphen"/>ceiving: and although beliefe carries with it a
+<pb n="35" facs="tcp:17310:22"/> colour of innocency, yet diſtruſt ſtill carries ſtre<g ref="char:cmbAbbrStroke">̄</g>gth off ſafety. <hi>Tutius peccat qui diffidit, innocentius qui credit.</hi>
+               </p>
+            </div>
+            <div n="6" type="part">
+               <head>6 Ieſts.</head>
+               <p>IT is the beſt compoſiti<g ref="char:EOLhyphen"/>on of ſpeech to uſe gra<g ref="char:EOLhyphen"/>vity of matter, and reſerve a liberty of ſtile: which is no more than to turne aſide from the ordinary wayes of expreſſions to certaine pleaſant walkes made for the recreation
+<pb n="36" facs="tcp:17310:23"/> of the mind. Jeſts in the wiſer ſort of men, ſerves as ornament; in the wea<g ref="char:EOLhyphen"/>ker they be but levity; if you uſe them concerning perſons, the trueſt nature of a Ieſt, is to want truth, for they ſhould have ſom<g ref="char:EOLhyphen"/>what of the invention: but if they taſte of malig<g ref="char:EOLhyphen"/>nity, and beginne to flye on the wings of inſolen<g ref="char:EOLhyphen"/>cy, they draw too nigh the nature of Libells. Therefore the State, and thoſe heavenly bodyes of Majeſty, admits not the preſence of humane au<g ref="char:EOLhyphen"/>dacity: <hi>Nemo ad Deorum conviviu<g ref="char:cmbAbbrStroke">̄</g> admittitur, niſi</hi>
+                  <pb n="37" facs="tcp:17310:23"/> 
+                  <hi>ad ludibrium:</hi> too much uſe of them in ſerious af<g ref="char:EOLhyphen"/>faires, reliſhes of the ſpirit of vanity: for Jeſts never penetrate farther than the ſuperficies of the matter; which as one notes is the properplace of a Jeſt. They may come to the eſteeme of light bodies, w<hi rend="sup">ch</hi> ever ſwim on the top, but ne<g ref="char:EOLhyphen"/>ver with ſolidity goes to the depth of knowledge. They ſhould never looke towards the Temple, for then the Jeſuite meetes with him in his Epigram, <hi>Tu cave ſed fiat ni io<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>s iſte focus:</hi> they ought not to paſſe over greatnes
+<pb n="38" facs="tcp:17310:24"/> of buſineſſe with a ſlight of the minde; but they enjoy their uſe, when they mollifie ſharpneſſe of words, with ſweetneſſe of conceite: they are good companions in diſcourſe, &amp; are moſt facetious, whe<g ref="char:cmbAbbrStroke">̄</g> attended with a happy concurrance of circum<g ref="char:EOLhyphen"/>ſtances. It is a Poeticall vertue, and where this kinde of ingenuity lights in men of more ſolid profeſſions, it is a happy conjunction; for the one makes him uſefull, the o<g ref="char:EOLhyphen"/>ther delightfull: they muſt be uſed like Phyſicke; you muſt not accuſtom others
+<pb n="39" facs="tcp:17310:24"/> eares with them too much: for they loſe their operation, by reaſon of the too much familiari<g ref="char:EOLhyphen"/>ty they have with the hea<g ref="char:EOLhyphen"/>rers.</p>
+               <p>But touching theſe kind of elegancies, I ſhal uſe the words of the learned <hi>Ve<g ref="char:EOLhyphen"/>rulam,</hi> who ſaith, <hi>That of all the excellencies of the gifts of the Minde, as to repeate after another a great number of names at once reciting: to write many Verſes ex tempore of a Theame: to be quick in Satyricall ſimilitudes: or ready to turne Ieſt in<g ref="char:EOLhyphen"/>to Earneſt, or Earneſt</hi>
+                  <pb n="40" facs="tcp:17310:25"/> 
+                  <hi>into Ieſt: theſe and the like I eſteeme no more than the agility of a Dancer of the Ropes, or a Pantomime: for they are the like things: the one a<g ref="char:EOLhyphen"/>buſes the ſtrength of the body, the other of the minde.</hi>
+               </p>
+            </div>
+            <div n="7" type="part">
+               <head>7 Of Love.</head>
+               <p>THere is no precept commands that ap<g ref="char:EOLhyphen"/>plication over a man, as the power of Love; It drawes the affections by a
+<pb n="41" facs="tcp:17310:25"/> kind of ſweetneſſe; wher<g ref="char:EOLhyphen"/>as rules doe it by diſtor<g ref="char:EOLhyphen"/>tion. Sometimes its like <hi>Circes</hi> wand, ſometimes like <hi>Mercuries</hi> Caduceus: ſometimes it corrupts, ſometimes it makes chaſt: beauty commonly as it is either found or apprehen<g ref="char:EOLhyphen"/>ded, is the object of that fancy, which ſtill proves like a <hi>Gorgon,</hi> which while men admire, it makes them blind in the eyes of the underſtan<g ref="char:EOLhyphen"/>ding; which cauſes one to extoll the vertues of the party loved ſo farre above truth. Vertue it ſelfe is faire, (which made
+<pb n="42" facs="tcp:17310:26"/> him ſay) that if it could be ſeene, it would ſtirre up a great many lovers of it: <hi>Virtus nil aliud niſi internaforma, forma ex<g ref="char:EOLhyphen"/>terna virtus.</hi> It is the ſtrongeſt of the paſſions, and often found in the weakeſt mindes; whoſe breaſts not fortified by the ſtrength of Councells; ſuch amorous conceites have the eaſier acceſſe to. Every ſoule is imprinted with the character of this deſire, which being tur<g ref="char:EOLhyphen"/>ned from the love of the Creatures to piety, it be<g ref="char:EOLhyphen"/>comes divinity: it makes all things ſeeme pleaſant:
+<pb n="43" facs="tcp:17310:26"/> and therefore it is the ad<g ref="char:EOLhyphen"/>vice of a great one, not to bee without ſome ſtrong affection: for <hi>ſine propoſito vita languida eſt:</hi> Glances and geſtures doe often procure affection, whether it be by ſtrength<g ref="char:EOLhyphen"/>ning the imagination or not I know not: it is moſt fervent when moſt oppoſed: nor is it without a Myſtery in Nature the ſecret attracting of affecti<g ref="char:EOLhyphen"/>ons betwixt particulars, without any knowledge or apprehenſion of their conditions; for there are certaine vertues which want a name, which is
+<pb n="44" facs="tcp:17310:27"/> the cauſe ſome hardly can give a reaſon of their love.</p>
+               <p>It is prevalent, ſome<g ref="char:EOLhyphen"/>times in the wiſeſt men, which ſhewes it hath a proximity with good.</p>
+               <q>Saepe latet vitium proxi<g ref="char:EOLhyphen"/>mitate boni.</q>
+               <p>Youth is moſt ſubject to thoſe inclinations, which ſhewes that it is for the moſt part the Child of Vanity; whilſt he is ſteeped in his affe<g ref="char:EOLhyphen"/>ctions, it becomes like a Dew which falls in the morning of his Youth,
+<pb n="45" facs="tcp:17310:27"/> ſcarce got out of the night of his ignorance; and is expelled by the riſing of the Sunne of his Knowledge.</p>
+               <p>Young men are amou<g ref="char:EOLhyphen"/>morous, middle-age af<g ref="char:EOLhyphen"/>fectionate, old men do<g ref="char:EOLhyphen"/>ting.</p>
+            </div>
+            <div n="8" type="part">
+               <head>8 Of Action, Medita<g ref="char:EOLhyphen"/>tion, and Contem<g ref="char:EOLhyphen"/>plation.</head>
+               <p>THere is as much diffe<g ref="char:EOLhyphen"/>rence betwixt medi<g ref="char:EOLhyphen"/>tation, and Action in ci<g ref="char:EOLhyphen"/>vill
+<pb n="46" facs="tcp:17310:28"/> knowledge, as is be<g ref="char:EOLhyphen"/>twixt Dreames and things really performed: the one hath the apprehenſion of a thing by the view of the underſtanding, the other the knowledge of the par<g ref="char:EOLhyphen"/>ticulars by the guide of experience. And al<g ref="char:EOLhyphen"/>though God and Angels muſt be onely ſpectactors, yet a nigh conjunction of Action and Meditation hath ever beene eſteemed as a thing full fraught with vertues: for as Action would ceaſe if it received not nouriſh<g ref="char:EOLhyphen"/>ment by Meditation; ſo Meditation, if not put in
+<pb n="47" facs="tcp:17310:28"/> practice, would loſe its vertue towards man. The publicke commands the beſt of every mans thoughts: even as in na<g ref="char:EOLhyphen"/>ture, <hi>Quod eſt conſervati<g ref="char:EOLhyphen"/>vum formae majoris, id activitate potentius.</hi> Yet certainly they have all felt the influence of hea<g ref="char:EOLhyphen"/>venly joy in the quiet repoſe of their owne thoughts. Obſervation is the companion of me<g ref="char:EOLhyphen"/>ditation, as experience is of action: in the framing of a mans owne fortune, actions doe moſt con<g ref="char:EOLhyphen"/>duce: the worth of which is expreſt by our Saviour:
+<pb n="48" facs="tcp:17310:29"/> 
+                  <hi>opera ſequuntur eos.</hi> Thoſe who wholly dedicate themſelves to bee their owne readers, muſt know they are not at all times politicke: and thoſe who meddle in multiplicity of action, will finde they are ſometimes not wiſe: but the prayſe of Con<g ref="char:EOLhyphen"/>templation, I leave as a ſubject to ſome Fryer, and will view the vertues of both: Publicke actions are commonly uncertain, which doe put on ſeverall countenances, according to the variety of occaſi<g ref="char:EOLhyphen"/>ons: the Notions which wee may get of mens
+<pb n="49" facs="tcp:17310:29"/> thoughts are moſt cre<g ref="char:EOLhyphen"/>dible: for commonly we are moſt prone to thinke of that which wee are naturally inclined to. Naturall Pallats doe diſ<g ref="char:EOLhyphen"/>guſt the meditation of the Scriptures, till they be fed at Chriſts Table, they be ſharpned for theſe hea<g ref="char:EOLhyphen"/>venly joyes: the corrupt opinion of Politicks have caſt no little darkneſſe on the glory of letters, eſtee<g ref="char:EOLhyphen"/>ming them but as the Pa<g ref="char:EOLhyphen"/>trons of idleneſſe, and that they doe reduce a mans minde from great<g ref="char:EOLhyphen"/>neſſe of workes, to ſmal<g ref="char:EOLhyphen"/>neſſe of ſpeculation: when
+<pb n="50" facs="tcp:17310:30"/> as every thought is an in<g ref="char:EOLhyphen"/>ternall act of reaſon, and firſt ſettles the mind with the knowledge of its du<g ref="char:EOLhyphen"/>ty, before it put it for<g ref="char:EOLhyphen"/>ward to execute; for o<g ref="char:EOLhyphen"/>therwiſe they may exer<g ref="char:EOLhyphen"/>ciſe their errous as well as vertues. In civill con<g ref="char:EOLhyphen"/>verſation it is commonly ſaid, that <hi>actionem eſſe cum ſtultis; lectionem cum ſapientibus:</hi> Meditations in civill matters doe too much abſtract the minde, when it is a good Rule; <hi>Minus pecuniae, minus fi<g ref="char:EOLhyphen"/>dei, minus prudentiae in mundo, quam homines co<g ref="char:EOLhyphen"/>gitent:</hi> The beſt rules
+<pb n="51" facs="tcp:17310:30"/> in Prudence: conſiſts in the apprehenſion of the ſmalleſt affaires; and yet makes up the body of one of the greateſt knowled<g ref="char:EOLhyphen"/>ges. The beſt inſtances give the ſecureſt informa<g ref="char:EOLhyphen"/>tion, as <hi>Ariſtotle</hi> affirmes, <hi>Optima cujuſ que rei natura in portionibus ejus mini<g ref="char:EOLhyphen"/>mis obſervatur.</hi> Medita<g ref="char:EOLhyphen"/>tions in envious men are to be feared: <hi>Pallidos ti<g ref="char:EOLhyphen"/>meo, rubicundos amo:</hi> in religious men it is capable of divinity; in politicke men, it is generative of Counſells. Actions are like precedency of place, moſt honourable when
+<pb n="52" facs="tcp:17310:31"/> they lead: Things that have beene once done, though they have more difficulty, yet they have leſſe praiſe: in the one you muſt not bee too ſtupid, in the other not too prag<g ref="char:EOLhyphen"/>maticall. Meditations are like parents, which doe generate: <hi>Poſt varios uſus meditando extunderet ar<g ref="char:EOLhyphen"/>tes.</hi> Actions are like chil<g ref="char:EOLhyphen"/>dren which doe perpetu<g ref="char:EOLhyphen"/>ate; <hi>ut non ſolum fuiſſe vi<g ref="char:EOLhyphen"/>deantur, ſed vixiſſe.</hi>
+               </p>
+            </div>
+            <div n="9" type="part">
+               <pb n="53" facs="tcp:17310:31"/>
+               <head>9 Of Errours and Deceits.</head>
+               <p>ERrors be the cunning Artiſts of Vice, as De<g ref="char:EOLhyphen"/>ceit is of Errors. Cunning men are moſt dangerous; whe<g ref="char:cmbAbbrStroke">̄</g> they ſeem moſt wiſe, <hi>Serpens putredo magis contagioſa, quam matura:</hi> they take no more of ver<g ref="char:EOLhyphen"/>tue than ſerves for their turne; and deſires onely an opinion of honeſty, to procure him other mens faith, a chiefe inſtrument
+<pb n="54" facs="tcp:17310:32"/> for him to worke by: thoſe whoſe mindes are not capable of vertuous intentions, they divert to ſiniſter &amp; by wayes, to co<g ref="char:EOLhyphen"/>zen the ſimplicity of other mens beliefe: thus true &amp; ſolid wiſedome often de<g ref="char:EOLhyphen"/>generates into poore ſlights of the mind, while they wrap all their actions in deceite, the better to carry them inviſible: ſo that they are growne to that ſubtilty of the Art, that as one wittily ſaith, <hi>Qui indiſſimulantèr omnia agit, ae<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> decepit; nam plu<g ref="char:EOLhyphen"/>rimi aut non capiunt, aut non credunt:</hi> ſo that it is
+<pb n="55" facs="tcp:17310:32"/> become a hard matter not to deceive: the greateſt advantage of deceite is o<g ref="char:EOLhyphen"/>ther mens imperfections: they practiſe them in words, in geſtures; in the compoſing of which, they are ſo curious, that if you ſhould looke into the re<g ref="char:EOLhyphen"/>alty of their actions, they would prove but a poore labyrinth of vanity: which having found out by the even thread of truth, and having unfolded them, you will finde them to bee but a poor rable of deceit: <hi>Qui fraudum minutijs ne<g ref="char:EOLhyphen"/>gotiorum frangunt ſolidi<g ref="char:EOLhyphen"/>tatem.</hi> You never heard
+<pb n="56" facs="tcp:17310:33"/> of any man of more than ordinary worth, but whoſe wiſedomes were made of the ſame ſtuffe as the Souldiers credit was: <hi>è telâ craſſiore,</hi> and not admirable for its fine thinneſſe: To uſe them to others, is the way to make them take the like liberty in the uſe of them to you againe: ſo that you will hinder your ſelfe ſo much of the know<g ref="char:EOLhyphen"/>ledge of the certainty of their intentions.</p>
+               <p>There are three Cha<g ref="char:EOLhyphen"/>racters noted of deceite in the Scriptures: <hi>Devi<g ref="char:EOLhyphen"/>ta prophanas vocum novi<g ref="char:EOLhyphen"/>tates,</hi>
+                  <pb n="57" facs="tcp:17310:33"/> 
+                  <hi>&amp; oppoſitiones fal<g ref="char:EOLhyphen"/>ſi nominis ſcientiae; inep<g ref="char:EOLhyphen"/>tas &amp; aniles fabulas devi<g ref="char:EOLhyphen"/>ta. Nemo vos decipiat in ſublimitate ſermonu<g ref="char:cmbAbbrStroke">̄</g>.</hi> Cun<g ref="char:EOLhyphen"/>ning men ſooneſt deceive, when not knowne; there<g ref="char:EOLhyphen"/>fore I may well change the Poets Verſe.</p>
+               <q>Politici eſt virtus maxima noſſe dolos.</q>
+            </div>
+            <div n="10" type="part">
+               <pb n="58" facs="tcp:17310:34"/>
+               <head>10 Of Content.</head>
+               <p>OVr endeavours in the purſuit of this, re<g ref="char:EOLhyphen"/>ſembles the Sunne, which gives us light into the knowledge of theſe terre<g ref="char:EOLhyphen"/>ſtriall bodyes; but againe obſcures thoſe Starres and the heavenly globe: ſo wee ſtill dive into the practiſes and workes of men on earth, while we never thinke of the glori<g ref="char:EOLhyphen"/>fied bodies of the Saints in heaven: it is a myſtery
+<pb n="59" facs="tcp:17310:34"/> in nature, that all men doe deſire ſome ſtay or pole upon which the reſt of their thoughts may bee turned: and how happily a man may make this Re<g ref="char:EOLhyphen"/>ligion, I appeale to the joy it affords: a generall view of the underſtan<g ref="char:EOLhyphen"/>ding of the whole world, and all that dwell upon it, makes much for the na<g ref="char:EOLhyphen"/>ture of Content. This was <hi>Solomons</hi> proſpect, when hee looked upon all the workes of his hands, hee pronounced them to bee vanity and vexation of ſpirit: Men (according to the divine Aphoriſme)
+<pb n="60" facs="tcp:17310:35"/> are borne to trouble, as ſparkes flye upwards: and thus we may beſt obſcure the falſe light of worldly delights with the ſunne of true wiſedome and know<g ref="char:EOLhyphen"/>ledge. The place of con<g ref="char:EOLhyphen"/>tent, is the content of the place you are in: the higheſt feete of honour, may bee below the true ſence of it: for ambition is like a Fever, which ever ſeekes to heale and perfect it ſelfe by changing of place, when it is not the local perſon, but the mind that is capable of ſerenity. It is an axiome in the Phy<g ref="char:EOLhyphen"/>ſicks: <hi>Quod corpus non</hi>
+                  <pb n="61" facs="tcp:17310:35"/> 
+                  <hi>ponderare niſi extra locum ſuum:</hi> The ſtone weighs not till it it bee lifted off from the body to which it tends: no more doth the ſoule feele the weight of labour and care, while it hath its converſation in heaven (its proper place) from whence originally it came.</p>
+               <p>
+                  <hi>Folly is joy to him who is deſtitute of underſtan<g ref="char:EOLhyphen"/>ding; but a man of under<g ref="char:EOLhyphen"/>ſtanding walketh upright<g ref="char:EOLhyphen"/>ly.</hi> There is nothing ſo much breeds greatneſſe of Spirit, as to know the ſmalneſſe of the worth of things: for thoſe men
+<pb n="62" facs="tcp:17310:36"/> who are onely intent up<g ref="char:EOLhyphen"/>on the petty things of the world, doe ſacrifice themſelves to the incon<g ref="char:EOLhyphen"/>ſtancy of Fortune, by rea<g ref="char:EOLhyphen"/>ſon the object of their de<g ref="char:EOLhyphen"/>ſires is ſo capable of viciſ<g ref="char:EOLhyphen"/>ſitudes; and doe for feit their content: but re<g ref="char:EOLhyphen"/>move a little theſe <hi>Elyſi<g ref="char:EOLhyphen"/>ums,</hi> the joyes of Humane fancy, and thoſe ſeverall motions of deſires which may ſeeme to ariſe even from the variety of our compoſure: and bee ravi<g ref="char:EOLhyphen"/>ſhed a little with a <hi>delecta<g ref="char:EOLhyphen"/>re ô anima mea in Deo:</hi> The ſweetneſſe of which muſicke drownes all the
+<pb n="63" facs="tcp:17310:36"/> leſſer ſounds of worldly delights: it ſettles all the diſtempers of the ſoule, and makes it ſmooth with a conſtant equality to<g ref="char:EOLhyphen"/>wards humane dangers. Thus, you may invert the order of humane delights, while the Worldling is taken with the riches of Gods mercies; while we here build up the ad<g ref="char:EOLhyphen"/>mirable Fabricke of our ſalvation, wherein Chriſt is the chiefe corner ſtone. Here you may have your Gardens for meditation, and hence tranſlate to your owne breaſts the flowers of Vertue, which
+<pb n="64" facs="tcp:17310:37"/> may make it flouriſh as a paradiſe to it ſelfe: Here you may enjoy the proſpect of the Worlds Vanities, beneath the high pitch of thy ſubli<g ref="char:EOLhyphen"/>mer ſoule: where to bee conſcious of well-doing, is the per<g ref="char:EOLhyphen"/>fection of Hu<g ref="char:EOLhyphen"/>mane feli<g ref="char:EOLhyphen"/>city.</p>
+            </div>
+            <div n="11" type="part">
+               <pb n="65" facs="tcp:17310:37"/>
+               <head>11 Of Friendſhips.</head>
+               <p>FRiendſhips are enter<g ref="char:EOLhyphen"/>tained for credit, for affection, for neceſſity: the chiefe uſe of them for cre<g ref="char:EOLhyphen"/>dit is with great men: for affection with perſons of moderate eſtate: for ne<g ref="char:EOLhyphen"/>ceſſity with poore men. However men put on faire forms of friendſhip, yet parity was a thing much celebrated by the Ancients: rich men will be more cautious, becauſe
+<pb n="66" facs="tcp:17310:38"/> they have ſomewhat to loſe; men of like fortunes will commonly ſticke clo<g ref="char:EOLhyphen"/>ſer to you: poore men will bee ever ſuſpitious of your love towards them. They are a reme<g ref="char:EOLhyphen"/>dy againſt ſolitude: if they be entered with good men, they reſtore the per<g ref="char:EOLhyphen"/>fection of man; if with bad they corrupt it: craf<g ref="char:EOLhyphen"/>ty men abuſe them, ſimple men know them not, wiſe men uſe them. One alone makes not a par<g ref="char:EOLhyphen"/>radiſe; ſo let them bee few but vertuous. For it is a thing wherin a man doth interpret himſelfe,
+<pb n="67" facs="tcp:17310:38"/> 
+                  <hi>Nam qui amicitias arct as copulat novas neceſſitudi<g ref="char:EOLhyphen"/>nes ſibi imponit:</hi> In the making of a mans owne fortune he is fitteſt; <hi>Qui ſapit innumeris moribus.</hi> All the caution touching bad men, ſhall bee like the learning of <hi>Sophiſmes,</hi> the better to avoid them: keeping of company hath ſtill a kinde of aſſimilati<g ref="char:EOLhyphen"/>on, as the Phyſicia<g ref="char:cmbAbbrStroke">̄</g>s ſpeak, though it happe<g ref="char:cmbAbbrStroke">̄</g>s through divers diſtempers of the minde: ſome deſires you through malice to defame you; others through cor<g ref="char:EOLhyphen"/>ruption of manners to make you bad, ſome
+<pb n="68" facs="tcp:17310:39"/> through cunning to have you feede their ſinnes, which themſelves are not able to maintaine. In dealing with theſe men you muſt imitate that muſicall troope of decei<g ref="char:EOLhyphen"/>ving the ſence: <hi>ut cum jam adeſſe videatur, placide ela<g ref="char:EOLhyphen"/>betur,</hi> becauſe friends love not to have con<g ref="char:EOLhyphen"/>tempt caſt upon their wayes: good men enjoy, cunning men interpret, malitious avoyde, ſcof<g ref="char:EOLhyphen"/>fers neglect: theſe offer themſelves to my penne, as they are commonly u<g ref="char:EOLhyphen"/>ſed in civill converſation. The knowledge of all
+<pb n="69" facs="tcp:17310:39"/> perſons reacheth but to this, to teach men to play their cards the bet<g ref="char:EOLhyphen"/>ter, and to performe buſi<g ref="char:EOLhyphen"/>neſſe with more dexterity and readineſſe.</p>
+            </div>
+            <div n="6" type="part">
+               <head>6 Of Silence.</head>
+               <p>A Man had neede to be very well verſt in the parts of ſpeech, that needs not the help of this Mute. To forbeare to ſpeake truth or piety, through too ſuperſtitious reve<g ref="char:EOLhyphen"/>rence to the goddeſſe of
+<pb n="70" facs="tcp:17310:40"/> 
+                  <hi>Silence,</hi> were to make a man liable to his Paradox who told one who was ſilent, <hi>Si prudens ſis, ſtul<g ref="char:EOLhyphen"/>tus es, ſi ſtultus prudens.</hi> Liberty of ſpeech ſhewes freedome of minde, and yeelds a man informati<g ref="char:EOLhyphen"/>on by others anſwers. Silence is the vertue of a friend, for men love com<g ref="char:EOLhyphen"/>monly to lay the things of moſt value in the ſureſt place; which is the reaſon the ſecret mans boſome doth participate of ſo many Councells: He who offends through Speech, offe<g ref="char:cmbAbbrStroke">̄</g>ds raſhly, who throgh ſilence ſafely. <hi>Wiſedome</hi> reſteth
+<pb n="71" facs="tcp:17310:40"/> 
+                  <hi>in the heart of him that hath underſtanding: but that which is amongſt fools ſhall be made knowne.</hi> It hath a ſtrange kinde of vertue in it: and in the <hi>Pythagorean</hi> Schoole was thought to breed know<g ref="char:EOLhyphen"/>ledge, like thoſe who in dreames receive influen<g ref="char:EOLhyphen"/>ces: In matters of con<g ref="char:EOLhyphen"/>ſequence <hi>qui ſilet eſt fir<g ref="char:EOLhyphen"/>mus;</hi> For Fame is like a river which gather ſtre<g ref="char:cmbAbbrStroke">̄</g>gth by going. In ſome caſes a thing not ſpoke doth expreſſe more, than if it had beene ſpoke, ſaith <hi>Sophocles.</hi> Silence often ſhewes a depth, though
+<pb n="72" facs="tcp:17310:41"/> they ſay the Currant ſtream is moſt cleare. Men very politicke are noted by <hi>Tacitus</hi> to uſe a kinde of freeneſſe in opening of themſelves. <hi>Caeſar</hi> pub<g ref="char:EOLhyphen"/>lickly profeſt that he had rather bee firſt in a poore Cottage than ſecond at <hi>Rome;</hi> but he knew them to be his friends to direct them, not his competitors to awake them. It is a kinde of darkneſſe, for it makes you walke in ob<g ref="char:EOLhyphen"/>ſcurity, and rather to bee gueſt at then knowne. In diſcourſe it is good to heare men firſt; for ſilence hath the ſame effect with
+<pb n="73" facs="tcp:17310:41"/> authority, it procures a kinde of reſpect to your words: <hi>Meritis ſi forte virum quem conſpexere ſi<g ref="char:EOLhyphen"/>lent.</hi> Commonly they are well tuned, but gives the pleaſantneſſe of the muſick inwardly to them<g ref="char:EOLhyphen"/>ſelves: and are as a ſhut booke, which if you open and reade, you may find much good diſcourſe ther<g ref="char:EOLhyphen"/>in. It nouriſheth Meditati<g ref="char:EOLhyphen"/>on, &amp; is no more than that which <hi>Seneca</hi> expreſſes, <hi>Sapiens ſemper in ſe recon<g ref="char:EOLhyphen"/>ditur,</hi> but in caſe of devo<g ref="char:EOLhyphen"/>tion you muſt ſtill uſe it, <hi>ut eo ſis melior, non occul<g ref="char:EOLhyphen"/>tior.</hi>
+               </p>
+            </div>
+            <div n="13" type="part">
+               <pb n="74" facs="tcp:17310:42"/>
+               <head>13 Of Queſtions.</head>
+               <p>SOme men doe rather employ their inventi<g ref="char:EOLhyphen"/>ons in raiſing of queſti<g ref="char:EOLhyphen"/>ons; then their judgments in determining them: the one makes learning fruit<g ref="char:EOLhyphen"/>full of diſputes, the other of workes. Asking of queſtions proceeds com<g ref="char:EOLhyphen"/>monly from ſome preno<g ref="char:EOLhyphen"/>tion of that which hee doth aske, which occaſio<g ref="char:EOLhyphen"/>ned that opinion in <hi>Plato,</hi> to thinke that all know<g ref="char:EOLhyphen"/>ledge
+<pb n="75" facs="tcp:17310:42"/> was but onely re<g ref="char:EOLhyphen"/>membrance: <hi>Qui aliquid quaerit, generali quâdam notione comprehendit, ali<g ref="char:EOLhyphen"/>ter qui fieri poteſt, ut illud quod fuerat inventum ag<g ref="char:EOLhyphen"/>noſcas.</hi> It is a great part of learning not to teach onely what to aſſert, or affirme, but prudently to aske. Men that are ve<g ref="char:EOLhyphen"/>ry froward in asking, doe often uſe the ſame liberty in telling: Like Veſſells which want a bottome, they receive moſt, becauſe they vent moſt: in cun<g ref="char:EOLhyphen"/>ning men they are dan<g ref="char:EOLhyphen"/>gerous, for Queſtions in them are like Beggers
+<pb n="76" facs="tcp:17310:43"/> gifts, <hi>ſua munera mittit in hamo,</hi> which are onely to draw ſomewhat backe againe by way of anſwer, to betray you. Suddaine Queſtions doe often pro<g ref="char:EOLhyphen"/>cure the trueſt relation of matters, which on con<g ref="char:EOLhyphen"/>ſidiration they doe begin to colour: they muſt bee warily raiſed in religion, for in it we have ſtill more reſpect to the author of divinity, than the matter: and as delight in humane Learning is inferiour to that which is divine, ſo faults committed in di<g ref="char:EOLhyphen"/>vine knowledge are more dangerous than thoſe in
+<pb n="77" facs="tcp:17310:43"/> humane. The ancients did raiſe them with a jea<g ref="char:EOLhyphen"/>louſie, which is Gods at<g ref="char:EOLhyphen"/>tribute; not with the ſpi<g ref="char:EOLhyphen"/>rit of contention, which is the Divells: In the life of Chriſt it is obſerved that his humility did conquer all the vaine prac<g ref="char:EOLhyphen"/>tiſes of men; ſo in religion, which is the Chriſtians life, humbleneſſe of ſpi<g ref="char:EOLhyphen"/>rit doth often goe beyond the ſubtilety of humane underſtanding: for a man may let his ſoule ſlip a<g ref="char:EOLhyphen"/>way, and yet diſpute of the higheſt points of divi<g ref="char:EOLhyphen"/>nity: and therefore it is ſafer with ſome of the
+<pb n="78" facs="tcp:17310:44"/> Saints to ſit at Chriſts feet with humility in medita<g ref="char:EOLhyphen"/>tion of his paſſion, than in the Chaire of ſubtile con<g ref="char:EOLhyphen"/>troverſie.</p>
+            </div>
+            <div n="14" type="part">
+               <head>14 Of Life.</head>
+               <p>MEn deſire Life, as Children doe the light: and as the love in the one is encreaſed by the ſight of glorious trifles, ſo is that in the o<g ref="char:EOLhyphen"/>ther. The deſire of hu<g ref="char:EOLhyphen"/>mane honours, the glo<g ref="char:EOLhyphen"/>ry of ſplendid miſeries, the
+<pb n="79" facs="tcp:17310:44"/> comforts of friends, and all the paſſions which we attract in the courſe of our life, by too much fa<g ref="char:EOLhyphen"/>miliarity with them, doe make it ſo deſireable. The conſideration of life as it is a paſſage and journey is good and wholeſome; but the feare of the brevi<g ref="char:EOLhyphen"/>ty of it, taſtes of a weake and vaine ſpirit: there is ſome mixture of va<g ref="char:EOLhyphen"/>nity in the contemplatio<g ref="char:cmbAbbrStroke">̄</g>s of them, who would make the ſpace of a whole life but a preparation for the pains of death; when wee know it ſhould bee ſpent after the comforts
+<pb n="80" facs="tcp:17310:45"/> of a better life; <hi>in hoc quod mortem proſpicimus, falli<g ref="char:EOLhyphen"/>mur; quicquid enim retr<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> eſt, mors eſt.</hi> And we fol<g ref="char:EOLhyphen"/>low a better Oracle, who hath told us that Death hath loſt his ſting, which might ſharpen our feares. The Satyriſt ſpeakes not onely like a good Poet, but a good Moralliſt: <hi>Quid Turpiùs eſſet, quam propter vitam, vivendi perdere cauſam:</hi> while wee deſire to advance our lives, we neglect the per<g ref="char:EOLhyphen"/>formance of thoſe duties for which it was given us. The Ethnicks did terminate the deſires of
+<pb n="81" facs="tcp:17310:45"/> life in the happineſſe of it: great men oft ſlight it in others, abuſe it in them<g ref="char:EOLhyphen"/>ſelves. <hi>Nero</hi> preferred <hi>Seneca's</hi> livings before his life, though he had for<g ref="char:EOLhyphen"/>merly beene his ſchoole<g ref="char:EOLhyphen"/>maſter. Vertues perfect life, innocency reſtores it, vices debaſe it: the paſ<g ref="char:EOLhyphen"/>ſions contemne it: proſpe<g ref="char:EOLhyphen"/>rity ſhewes the riches of life, adverſity the wealth of the minde: <hi>hunc volo, laudari qui ſine morte po<g ref="char:EOLhyphen"/>teſt.</hi> The true eſteem of the worth of life, raiſes a man to the higheſt pitch of Heroicall valour. This made <hi>Iohn</hi> the Duke of
+<pb n="82" facs="tcp:17310:46"/> 
+                  <hi>Saxony,</hi> being condem<g ref="char:EOLhyphen"/>ned to dye, eſteeme no more of his life than a game at Cheſſe came to. This made Sir <hi>Thomas Moore</hi> (while hee jeſted with the Barber about the Controverſie between his head and the King) eſteem ſo little of his life; I mean not the bare diſſolution of his frame into their ſe<g ref="char:EOLhyphen"/>verall elements; but in a true conſideration of life, and her ſeverall ſtages, we may ſafely repoſe our thoughts in <hi>Solomons</hi> Parable: <hi>una generatio mi<g ref="char:EOLhyphen"/>grat, &amp; altera venit, ſed terra manet in aeternum</hi>
+                  <pb n="83" facs="tcp:17310:46"/> 
+                  <hi>veluti the atrum in quo haec fabula pregitur:</hi> it is the beſt conjunction to be an old man in wiſedome, and a child in innocency. Life commonly gives not that fame to men of excellency of parts, as Death which is the life of Fame, which riſes out of her aſhes; ex<g ref="char:EOLhyphen"/>cept ſome turne a lover of men, and devote them<g ref="char:EOLhyphen"/>ſelves to the Common<g ref="char:EOLhyphen"/>wealth: then <hi>laudem mors alijs quam tibi vita dedit.</hi>
+               </p>
+            </div>
+            <div n="15" type="part">
+               <pb n="84" facs="tcp:17310:47"/>
+               <head>15 Of Sciences.</head>
+               <p>SInce Learning is the perfecter of Humane reaſon; its happy when it ſelfe is perfected by reaſon of experience: Theology is the ſafeſt ſtarre to direct our courſe in the wayes of the intellectuall world, in which, as in other parts of the greater world, you ſhall meet with ſome pla<g ref="char:EOLhyphen"/>ces barren, ſome for uſe, others for delight: ſome Sciences are fruitleſſe of
+<pb n="85" facs="tcp:17310:47"/> workes, others uſefull in direction, others pleaſant in ſpeculatio<g ref="char:cmbAbbrStroke">̄</g>. They ſhould not be altogether Virgins, but ſhould ſometime bring forth and bee gene<g ref="char:EOLhyphen"/>rative; and as they be the improvement of humane reaſon, ſo its reaſon men ſhould endeavour to im<g ref="char:EOLhyphen"/>prove them; <hi>multi per<g ref="char:EOLhyphen"/>tranſibunt, &amp; augebitur ſcientia,</hi> was the prophe<g ref="char:EOLhyphen"/>cy of the laſt and worſt times. To have Sciences ſtill runne after the ſtile of Maſter &amp; Scholler, is Pe<g ref="char:EOLhyphen"/>danticall, to have them labour for production of workes, is Philoſophicall.
+<pb n="86" facs="tcp:17310:48"/> Diſputes riſe from the ſearch into the underſtan<g ref="char:EOLhyphen"/>ding, workes from the ſcrutiny into nature; wherefore ſaith <hi>Heracli<g ref="char:EOLhyphen"/>tus, Let men ſeeke the truth of things in the greater World, not in their owne little Worlds. Elenches</hi> (the idols of mens brains) are come to that ſinneſſe of ſlight, as <hi>Seneca</hi> ſeemes well to expreſſe them, whiles he compares them to the tricks of Juglers; which we know not after what manner they bee done; but we know ſure enough that it is not ſo, as it ſeemes to us
+<pb n="87" facs="tcp:17310:48"/> to be. Rationall ſtudies doe ſtill ſharpen the un<g ref="char:EOLhyphen"/>derſtanding for the or<g ref="char:EOLhyphen"/>derly capacity and metho<g ref="char:EOLhyphen"/>dicall apprehenſion of a<g ref="char:EOLhyphen"/>ny matter. Morall Phi<g ref="char:EOLhyphen"/>loſophy guides the affecti<g ref="char:EOLhyphen"/>ons, Logicke the under<g ref="char:EOLhyphen"/>ſtanding, Policy the Com<g ref="char:EOLhyphen"/>mon-wealth; Aſtrology is conjecturall; Mathe<g ref="char:EOLhyphen"/>maticks certaine, Meta<g ref="char:EOLhyphen"/>phyſicks ſublime: Poetry riſes from the ſtrength of a Naturall wit, Rhetorick from a dainty minde; Natural Philoſophy from deepe Caves and Mine<g ref="char:EOLhyphen"/>ralls, ſaith a learned one: Hiſtory ſprings from
+<pb n="88" facs="tcp:17310:49"/> times, matters, perſons. Knowledge and learning without experience, is like the ſtatue of <hi>Poly<g ref="char:EOLhyphen"/>phemus,</hi> which wants an eye: And therefore men who are wholly immer<g ref="char:EOLhyphen"/>ſed in their own thoughts are leſſe nimble for taking hold of occaſions. To go alwaies by the ſtraight<g ref="char:EOLhyphen"/>nes of rule, doth not ſo wel agree with the croſſe lines of fortune, which requires a faſhioning head: ſo that little learning falling in<g ref="char:EOLhyphen"/>to men of ſtrength of ca<g ref="char:EOLhyphen"/>pacity, nimbleneſſe of ap<g ref="char:EOLhyphen"/>prehenſion, ability of judgement, will produce
+<pb n="89" facs="tcp:17310:49"/> greater effects than a con<g ref="char:EOLhyphen"/>tinued ſtudy in an unexpe<g ref="char:EOLhyphen"/>rienc'd man. Knowledge of Sciences, brings forth ſuch workes, which accor<g ref="char:EOLhyphen"/>ding to the parts of the re<g ref="char:EOLhyphen"/>ceiver prove the Nobler. Cunning men, it makes them able to deceive: the judicious it makes them apply the<g ref="char:cmbAbbrStroke">̄</g>ſelves to nobler ends and intentions: in Stoical natures they breed a neglect of things. Grave ſtudies make a man lear<g ref="char:EOLhyphen"/>ned, ingenious ſtudies praiſed, religious happy; and ſometimes the fooliſh ſtudies moſt fortunate.</p>
+            </div>
+            <div n="16" type="part">
+               <pb n="90" facs="tcp:17310:50"/>
+               <head>16 Of Dangers.</head>
+               <p>ELegant was his obſer<g ref="char:EOLhyphen"/>vation of the gazing Philoſopher, how that if hee had looked downe, he might have ſeen the ſtars in the water; but looking up hee could not ſee the water in the ſtarres: and commonly inſpection in<g ref="char:EOLhyphen"/>to low matters, diſcover the knowledge of thoſe things, which by the con<g ref="char:EOLhyphen"/>templation of themſelves might expoſe us to dan<g ref="char:EOLhyphen"/>ger;
+<pb n="91" facs="tcp:17310:50"/> 
+                  <hi>melior eſt oculi viſio, quam animi progreſſio.</hi> Dangers have ſomewhat of the nature of the Coca<g ref="char:EOLhyphen"/>trice; and as the one is be<g ref="char:EOLhyphen"/>got of prodigious mix<g ref="char:EOLhyphen"/>ture, ſo is the other of diſ<g ref="char:EOLhyphen"/>parity of circumſtances; whom if you chance to obſerve firſt the feare of danger is paſt; but if hee penetrate you firſt, he en<g ref="char:EOLhyphen"/>dangers your ſafety. Some are more quick on the pre<g ref="char:EOLhyphen"/>ſent to avoyd the blow, than of fore-ſight to pre<g ref="char:EOLhyphen"/>vent it; ſecurity is the Mo<g ref="char:EOLhyphen"/>ther of them, ſo that they have the quality of an ene<g ref="char:EOLhyphen"/>my, <hi>Dolus an virtus quis</hi>
+                  <pb n="92" facs="tcp:17310:51"/> 
+                  <hi>in hoſte,</hi> they often deceive as well as overcome: to whom they ſeeme light, they ſooneſt light into them: Changes and pe<g ref="char:EOLhyphen"/>riods of Co<g ref="char:cmbAbbrStroke">̄</g>mon-wealths, in ſome ſort exceede the reach of humane Pru<g ref="char:EOLhyphen"/>dence: which as the King<g ref="char:EOLhyphen"/>dome of heaven comes not by obſervation, but reaches to an high act of Providence. The avoy<g ref="char:EOLhyphen"/>ding of danger, altoge<g ref="char:EOLhyphen"/>ther wants not danger; for ſometimes Phyſick, which is given againſt the vio<g ref="char:EOLhyphen"/>lency of one diſeaſeſe, en<g ref="char:EOLhyphen"/>clines the body to a worſe, and are ſo much the more
+<pb n="93" facs="tcp:17310:51"/> hurtfull, by how much the more ſecret. Dangers doe ſhew prudence, ſafety temperance. Some doe vainly affect a kinde of glory in running into them: but hee that loves danger ſhal periſh therein. They are well co<g ref="char:cmbAbbrStroke">̄</g>ſidered in private, but are ill feared in action; for then <hi>nil ter<g ref="char:EOLhyphen"/>ribile niſi ipſe timor.</hi> Its wiſdom to overſee them, valour to overcome them, deſperateneſſe to run into them.</p>
+            </div>
+            <div n="17" type="part">
+               <pb n="94" facs="tcp:17310:52"/>
+               <head>17 Of Precepts of Policy.</head>
+               <p>THe extent of this diſ<g ref="char:EOLhyphen"/>courſe, is as large as the actions of men them<g ref="char:EOLhyphen"/>ſelves: and Speeches in this kinde being but the children of obſervation, have the livelieſt repre<g ref="char:EOLhyphen"/>ſentation of action, when experienced men write them. Therefore I will borrow ſome from that King, whoſe heart was ſaid to be like the ſands of
+<pb n="95" facs="tcp:17310:52"/> the Sea; and will ſet them without order, to ſhew that they are ſtill capable of additions.</p>
+               <div type="section">
+                  <head>The turning away of the ſimple ſhall ſlay them, and the proſperity of fooles ſhall deſtroy them.</head>
+                  <p>THis Parable deſcribes the greatneſſe of the miſery of the weaker ſort, and the weakneſſe of the greater ſort: the one whoſe mind being not truely ſetled in the apprehenſion of themſelves and others;
+<pb n="96" facs="tcp:17310:53"/> nor his thoughts poyzed with the weight of judge<g ref="char:EOLhyphen"/>ment, turnes from the per<g ref="char:EOLhyphen"/>formance of his duty to crooked intentions, and ſlights of the minde, and cunning, which ſacrifices him to the tiranny of miſ<g ref="char:EOLhyphen"/>fortune, and not ſeaſoned with divine Precepts, lo<g ref="char:EOLhyphen"/>ſeth his reſt and content, and in the end proves mi<g ref="char:EOLhyphen"/>ſerable, when <hi>Solomon</hi> ſaith, <hi>Prudens advertit ad greſſus ſuos, ſtultus diver<g ref="char:EOLhyphen"/>tit ad dolos.</hi> The other who conſider not any thing after the rules of wiſedome; but whoſe thoughts being below the
+<pb n="97" facs="tcp:17310:53"/> ordinary things of for<g ref="char:EOLhyphen"/>tune: a more proſperous aſpect of good fortune puffes him up, and breeds an inequality in his mind, not knowing that every thing hath its worth from its uſe, but thinking them to have their glory from others eſteeme. Goe into their order, <hi>Qui magnam felicitatem concoquere non poſſunt:</hi> and through a weaknes of underſtanding ſinkes under the burthen of his felicity.</p>
+               </div>
+               <div type="section">
+                  <pb n="98" facs="tcp:17310:54"/>
+                  <head>Let thine eyes looke right on, &amp; let thine eye-lids looke ſtraight before thee.</head>
+                  <p>THis Parable taxes a vain curioſity in men, who not caring to goe on with a caution to their owne wayes, but turnes to obſervation of others ſpeeches, rather caring what men might ſay, then what they ought to doe; according to that of <hi>Solo<g ref="char:EOLhyphen"/>mon, cunctis ſermonibus</hi>
+                     <pb n="99" facs="tcp:17310:54"/> 
+                     <hi>ne accommodes aure<g ref="char:cmbAbbrStroke">̄</g> tuam, &amp;c.</hi> Hee who applies himſelfe to the inſpection of others manners and cu<g ref="char:EOLhyphen"/>ſtomes, rather than the government of his owne, hath not well ſtudyed this precept. And againe, he who lookes not ſtraight before him, with an in<g ref="char:EOLhyphen"/>ſight into the preſent ſtate of things, but doth by a wandring of the mind an<g ref="char:EOLhyphen"/>ticipate the joyes of future comfort. It doth obſcure and dul the true apprehen<g ref="char:EOLhyphen"/>ſion of the preſent, and makes mens minds uncer<g ref="char:EOLhyphen"/>taine, rather led by the hope of that which ſhall
+<pb n="100" facs="tcp:17310:55"/> be, than content with the fruition of that which is. In another place he ſaith, <hi>Wiſedome is before him that hath underſtanding: but the eyes of the foole are in the ends of the earth.</hi> And againe, <hi>Better is the ſight of the eye than the wandring of the minde:</hi> the one ſhewes ſetlednes in judgement, the other diverſions of a weake minde. Thus doe all thoſe who flye on the Wings of Humane de<g ref="char:EOLhyphen"/>ſires, who doe inter<g ref="char:EOLhyphen"/>prete the meaning of that Fable; while they ei<g ref="char:EOLhyphen"/>ther come too nigh the
+<pb n="101" facs="tcp:17310:55"/> Sunne of Honour, are mel<g ref="char:EOLhyphen"/>ted with the heate of am<g ref="char:EOLhyphen"/>bition; or elſe flying over the Ocean of humane af<g ref="char:EOLhyphen"/>faires, doe meete with Clouds and Miſts of diſ<g ref="char:EOLhyphen"/>grace, which doe make ſlow their motion to<g ref="char:EOLhyphen"/>wards their intended de<g ref="char:EOLhyphen"/>ſires.</p>
+               </div>
+               <div type="section">
+                  <head>Reprove not the ſcorner, leaſt he hate thee: rebuke a wiſe man, and he will love thee.</head>
+                  <p>VVE are taught, not to throw the pre<g ref="char:EOLhyphen"/>cious
+<pb n="102" facs="tcp:17310:56"/> Pearle of Wiſdome before men of Swiniſh Condition.</p>
+                  <p>Give Councell to a Scoffer, and hee will cor<g ref="char:EOLhyphen"/>rupt thy wholeſome ad<g ref="char:EOLhyphen"/>vice by the infection of his poyſonous breath; and what is ſpoke againſt their wayes, they onely thinke them to proceede out of an honeſt ſimplici<g ref="char:EOLhyphen"/>city, and an ignorance of their courſe. Therefore ſaith <hi>Solomon, Stultus non accipit verba pruden<g ref="char:EOLhyphen"/>tiae niſi ea dixeris quae ſunt in corde ejus.</hi> A man of underſtanding ſhall attain unto wiſe Councells, for
+<pb n="103" facs="tcp:17310:56"/> he knowes that they doe but uſe the priviledge of friendſhip, who doe but rebuke them; and be<g ref="char:EOLhyphen"/>ſides he is conſcious that Mortall condition, how vertuous ſoever, is capable of error; according to that of the Comaedian <hi>Homo ſum a me nil alienum ex<g ref="char:EOLhyphen"/>pecta.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <pb n="104" facs="tcp:17310:57"/>
+                  <head>Wiſe men lay up know<g ref="char:EOLhyphen"/>ledge, but the mouth of fooles is meere deſtru<g ref="char:EOLhyphen"/>ction.</head>
+                  <p>IN this is reprehended the Futile Loquacity of of thoſe who have not ſo much knowledge as to conceale their ignorance; but by untimely diſcourſe doe forfeit the opinion of their wiſedome, who lets the ſtocke of their knowledge runne into the Channell of watery
+<pb n="105" facs="tcp:17310:57"/> diſcourſe, before their breaſts, the fountaine, be full. The other husbands well his talke, and to that end layes up the fruit of knowledge, and <hi>ut ſapiens ſemper in ſe re<g ref="char:EOLhyphen"/>conditur:</hi> Wiſedome re<g ref="char:EOLhyphen"/>ſteth in the heart of him that hath underſtanding, but that which is a<g ref="char:EOLhyphen"/>mongſt fooles ſhall bee made known.</p>
+               </div>
+               <div type="section">
+                  <pb n="106" facs="tcp:17310:58"/>
+                  <head>The wayes of a foole are right in his owne eyes: but hee that harkeneth unto Councell is wiſe.</head>
+                  <p>HE that doth not ac<g ref="char:EOLhyphen"/>knowledge that he is weake, is but weake in knowledge. A man had need view himſelfe oft in the glaſſe of Divinity, to ſee what Habits &amp; formes his ſoule weares; not in the flattering glaſſe of his owne thoughts: nei<g ref="char:EOLhyphen"/>ther muſt hee too much
+<pb n="107" facs="tcp:17310:58"/> truſt to his owne heart; for he is wiſe that know<g ref="char:EOLhyphen"/>eth the deceitfulnes ther<g ref="char:EOLhyphen"/>of. The opinion of being vertuous, is reckoned a<g ref="char:EOLhyphen"/>mongſt the cauſes of vice: its a ſafer rule for one to ſay, Ile avoyd this, becauſe judgement tells me it is nought, than to ſay, I love and follow this, be<g ref="char:EOLhyphen"/>cauſe I affect and thinke it good: for the receite of wiſedome and inſtruction will give ſubtilty to the ſimple, to the wiſe man knowledge &amp; diſcretion.</p>
+               </div>
+               <div type="section">
+                  <pb n="108" facs="tcp:17310:59"/>
+                  <head>A fooles wrath is preſently knowne: but a prudent man covereth ſhame.</head>
+                  <p>THere is no paſſion ſo ſoone betrayeth the ſecrets of the heart as anger, and none diſcovers this paſſion ſo much as the heart of a foole. The Poet calls it a torture, to tyrannize a man to confeſ<g ref="char:EOLhyphen"/>ſion: <hi>ubi vino tortus &amp; irâ:</hi> By theſe two wee come to ſee a mans naked<g ref="char:EOLhyphen"/>neſſe; they betray the
+<pb n="109" facs="tcp:17310:59"/> tower of reaſon to the fu<g ref="char:EOLhyphen"/>ry of the aſſaulting paſſi<g ref="char:EOLunhyphen"/>ons. Here is the diffe<g ref="char:EOLhyphen"/>rence betwixt patience, which is the covering of a mans ſhame; and anger which is the diſcovering of his folly: the one upon every occaſion growes loud with inſolency, the other upon every occaſion drawes the curtaine of Prudence before him, which is Silence, to make him walke unſeene.</p>
+               </div>
+               <div type="section">
+                  <pb n="110" facs="tcp:17310:60"/>
+                  <head>There is that maketh him<g ref="char:EOLhyphen"/>ſelfe rich, yet hath no<g ref="char:EOLhyphen"/>thing: there is that ma<g ref="char:EOLhyphen"/>keth himſelfe poore, yet hath great riches.</head>
+                  <p>THere are ſome, who are not of an ordina<g ref="char:EOLhyphen"/>ry compoſition of un<g ref="char:EOLhyphen"/>derſtanding, can enjoy the riches of Content in the midſt of an honeſt poverty. It is the facul<g ref="char:EOLhyphen"/>ty of the imagination that can turne it ſelfe, and make every thing appeare
+<pb n="111" facs="tcp:17310:60"/> to it ſelfe, as it will it ſelfe, ſaith <hi>Antoninus.</hi> It is not the outward things, but the minde which is capable of Con<g ref="char:EOLhyphen"/>tent: <hi>non eſt beatus niſi qui beatum ſe eſſe putat.</hi> The other, whoſe ri<g ref="char:EOLhyphen"/>ches are larger than the extent of their know<g ref="char:EOLhyphen"/>ledge, loſes the uſe of them, by an unruly de<g ref="char:EOLhyphen"/>ſire of having more, when as <hi>David</hi> ſaith, Man walketh in a vaine ſhadow, he heapeth up riches and knowes not who ſhall gather them: a deſire of Wealth ſtill ſhewes the pooreneſſe of
+<pb n="112" facs="tcp:17310:61"/> a mans minde: (or thus) there are ſome who vainly glories in the opinion of being held rich, advancing in Fame that, which he re<g ref="char:EOLhyphen"/>ally findes the want of; others who through a narrowneſſe of underſtan<g ref="char:EOLhyphen"/>ding, would be thought to have nothing, becauſe they will reſerve a power of having more.</p>
+               </div>
+               <div type="section">
+                  <pb n="113" facs="tcp:17310:61"/>
+                  <head>The back-ſlider in heart ſhall be filled with their owne wayes, and a good man ſhall bee ſatisfied from himſelfe.</head>
+                  <p>THere can ariſe no greater griefe, or anxiety of Spirit, then from the following the deſires of the heart. This <hi>Salomon</hi> pronounceth as a curſe againſt thoſe that hating knowledge, did not chuſe the feare of the Lord, therefore ſhal they
+<pb n="114" facs="tcp:17310:62"/> eate of the fruite of their owne wayes, and be filled with their owne devices. There is difference be<g ref="char:EOLhyphen"/>twixt the proſpect, which was <hi>Solomons,</hi> who pro<g ref="char:EOLhyphen"/>nounced all the workes of his hands to be vanity and vexation of ſpirit: And when God beheld all that was done; <hi>Loe it was very good.</hi> Wiſe men, whoſe breaſts are ſacred Treaſuries of good coun<g ref="char:EOLhyphen"/>ſaile, though they meete with obliquity and croſſe<g ref="char:EOLhyphen"/>neſſe in buſineſſe, yet they can preſently deſcend into themſelves, and there finde ſpeciall preſer<g ref="char:EOLhyphen"/>vatives
+<pb n="115" facs="tcp:17310:62"/> and good precepts againſt the diſtaſters of outward loſſe.</p>
+               </div>
+               <div type="section">
+                  <head>The ſimple beleeve every word; but the prudent doth looke well to his going.</head>
+                  <p>THere is ſtill a priva<g ref="char:EOLhyphen"/>tion of Judgement, where there is a too great facility of believing. Our Saviour warneth us of the deficiency of Faith: <hi>Cum venerit filius homi<g ref="char:EOLhyphen"/>nis</hi>
+                     <pb n="116" facs="tcp:17310:63"/> 
+                     <hi>non inveniet ſidem ſu<g ref="char:EOLhyphen"/>per terram:</hi> Diſtruſt is the chiefe Antidote a<g ref="char:EOLhyphen"/>gainſt the poyſon of de<g ref="char:EOLhyphen"/>ceite. It is a Character of Wiſedome: The pru<g ref="char:EOLhyphen"/>dent man is ever ſuſpiti<g ref="char:EOLhyphen"/>ous to his owne credu<g ref="char:EOLhyphen"/>lity, caring rather that hee ſhould doe what hee ought, than to heare others talk of what he ought not to doe.</p>
+               </div>
+               <div type="section">
+                  <pb n="117" facs="tcp:17310:63"/>
+                  <head>The heart of him that hath Vnderſtanding ſeeketh knowledge, but the mouth of fooles feeds on fooliſhneſſe.</head>
+                  <p>ALL mens mindes ei<g ref="char:EOLhyphen"/>ther feede on their owne vertues, or the de<g ref="char:EOLhyphen"/>traction of anothers vice; for in al knowledge which is but the food of the minde: there is a kind of aſſimilation: they who have drunke a more full draught of wiſedome,
+<pb n="118" facs="tcp:17310:64"/> doe ſtill deſire to preſerve it by the ſame nouriſh<g ref="char:EOLhyphen"/>ment, by which it firſt tooke Life: the other like a prodigall childe feeds not cleane, but a<g ref="char:EOLhyphen"/>mongſt his baſe luſts, and pleaſures which prove but Huskes, which may provoke the ap<g ref="char:EOLhyphen"/>petite, but cannot fill it.</p>
+               </div>
+               <div type="section">
+                  <pb n="119" facs="tcp:17310:64"/>
+                  <head>Excellent ſpeech becom<g ref="char:EOLhyphen"/>meth not a foole; much leſſe doe lying lips a Prince.</head>
+                  <p>IN the wiſedome of Speech, there is to be obſerved a decorum, what words ſhould fit the Speaker. Great words become not a ſervant, nor wiſe the foole. A Prince ſhould uſe Majeſty of Speech, befitting the ſtate of his perſon; and truth of ſpeech befit<g ref="char:EOLhyphen"/>ting
+<pb n="120" facs="tcp:17310:65"/> the divinity of his Commiſſion: the one in way of his perſon, as <hi>Ta<g ref="char:EOLhyphen"/>citus</hi> notes: <hi>Auguſto profluens &amp; que princi<g ref="char:EOLhyphen"/>pem decerit fuit oratio:</hi> For the variety of his words, the Scripture teacheth him an heavenly attri<g ref="char:EOLhyphen"/>bute, <hi>Dij ſicut e<g ref="char:EOLhyphen"/>ritis.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <pb n="121" facs="tcp:17310:65"/>
+                  <head>It is naught, it is naught, ſaith the buyer, but when he is gone, then hee boa<g ref="char:EOLhyphen"/>ſteth.</head>
+                  <p>THis ſhewes the ordi<g ref="char:EOLhyphen"/>nary deceite, and the formulaies of buying; when many times that which men praiſe is not good, nor that ill which men diſprayſe: therefore it will be uſeful to obſerve in common Language, to ſee how many colours you can reprehend in them.</p>
+               </div>
+               <div type="section">
+                  <pb n="122" facs="tcp:17310:66"/>
+                  <head>An inheritance may bee gotten haſtily at the be<g ref="char:EOLhyphen"/>ginning, but the end thereof ſhall not be bleſ<g ref="char:EOLhyphen"/>ſed.</head>
+                  <p>THis reprehends the immature acceſſe to abundancy of wealth: <hi>qui feſtinat ad divitias non erit inſons;</hi> its true many have made a ſhor<g ref="char:EOLhyphen"/>ter cut to riches, having ſome knowledge, and not too much honeſty:
+<pb n="123" facs="tcp:17310:66"/> who though they may keepe a great noyſe in mens mouths, yet a proſ<g ref="char:EOLhyphen"/>perous ſucceſſe ſcarce favours them: <hi>illis vix gaudet tertius haeres:</hi> and beſides <hi>Solomon</hi> tells us, that they take Wings like the Eagle and flye away: <hi>quae ad breve durant, brevi pa<g ref="char:EOLhyphen"/>rantur.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <pb n="124" facs="tcp:17310:67"/>
+                  <head>A goodname is to be cho<g ref="char:EOLhyphen"/>ſen rather than great ri<g ref="char:EOLhyphen"/>ches.</head>
+                  <p>A Good name is the beſt heire of a mans vertues: <hi>No men bonum eſt inſtar unguenti fragran<g ref="char:EOLhyphen"/>tis:</hi> praiſe in life time is vertues ſpurre; in death it is his ornament; <hi>nemo laudes contemnit, niſi qui prius laudanda facere de<g ref="char:EOLhyphen"/>ſuevit.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <pb n="125" facs="tcp:17310:67"/>
+                  <head>Repaire thy work without, and make it ſit for thy ſelfe in the field, and af<g ref="char:EOLhyphen"/>terward build thine houſe.</head>
+                  <p>IN the framing of a mans owne fortune, he muſt have a ſpeciall care to fa<g ref="char:EOLhyphen"/>ſhion the materialls of his ſpeech, and intentions in private and ſolitary medi<g ref="char:EOLhyphen"/>tations, before he come to the actio<g ref="char:cmbAbbrStroke">̄</g> of performance, or the building of the Fa<g ref="char:EOLhyphen"/>bricke. If you doe not firſt caſt your purpoſe in
+<pb n="126" facs="tcp:17310:68"/> the mold of prudence and wiſdome; your actions wil be caſt on the unconſtancy of Fortune, if you con<g ref="char:EOLhyphen"/>ceive not honeſt intenti<g ref="char:EOLhyphen"/>ons, and noble ends, you are but <hi>Theomachi,</hi> you do build a <hi>Babel</hi> or things of confuſion, <hi>quae tolluntur in altum ut lapſu graviore ruant:</hi> If the Archetype be not good which is in the underſtanding, the imitation of it will hardly prove capable of perpe<g ref="char:EOLhyphen"/>tuity. Action without forecaſt; ſpeech without conſideration, controver<g ref="char:EOLhyphen"/>ſies in the Pulpit, are like ſtones hewn in the <hi>Temple,</hi>
+                     <pb n="127" facs="tcp:17310:68"/> which are there only made fit, whereas they ſhould build up.</p>
+               </div>
+               <div type="section">
+                  <head>For men to ſearch their owne glory, is not glory.</head>
+                  <p>LEt another praiſe thee, and not thy owne mouth; a ſtranger and not thy owne lips. Poore men often digge in the richeſt Mines, and ſearch the pre<g ref="char:EOLhyphen"/>cious veine of that glori<g ref="char:EOLhyphen"/>ous mettle, when it be<g ref="char:EOLhyphen"/>longs to the owners. Men who are poor in worth &amp; vertue may talke of the
+<pb n="128" facs="tcp:17310:69"/> honoured waies of Fame and Credit, which they doe not owe: for they be<g ref="char:EOLhyphen"/>long to vertue and godli<g ref="char:EOLhyphen"/>neſſe. It was ſaid to bee the cauſe of <hi>Iugurths</hi> glo<g ref="char:EOLhyphen"/>ry, <hi>plurimum faciendo &amp; nihil de ſeipſo loquendo;</hi> by which meanes he grew greater than envy, and fruitfull in acts of worth.</p>
+               </div>
+               <div type="section">
+                  <head>Da'mihi ne<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> paupertatem, nec divitias.</head>
+                  <p>THis determines a grave queſtion in Mo<g ref="char:EOLhyphen"/>rall Philoſophy, whether
+<pb n="129" facs="tcp:17310:69"/> it were a great happineſſe to enjoy wealth, or to co<g ref="char:cmbAbbrStroke">̄</g>
+                     <g ref="char:EOLhyphen"/>temne it: this cuts out a faire courſe betwixt the deformity of foule ex<g ref="char:EOLhyphen"/>treams; and yeilds a good cooling-card for the hot game of ambitio<g ref="char:cmbAbbrStroke">̄</g>: to deſire that ſtate onely wherein we might beſt ſerve God: There ought to be a limi<g ref="char:EOLhyphen"/>tation of the care of get<g ref="char:EOLhyphen"/>ting wealth: our Saviour teacheth it, <hi>Primum quae<g ref="char:EOLhyphen"/>rite regnum Dei, &amp;c.</hi> The Ethnicks tells us, <hi>Primo quaere animi bona, &amp; caete<g ref="char:EOLhyphen"/>ra vel aderunt, vel non obe<g ref="char:EOLhyphen"/>runt.</hi> The kingdome of Chriſt was not of this
+<pb n="130" facs="tcp:17310:70"/> world; (therefore ſaith one) if this were his King<g ref="char:EOLhyphen"/>dome, he would not let the evill be amongſt the good; nor the laſcivious with the chaſt: ſurely he had no ſuch thing in this world which we cal great<g ref="char:EOLhyphen"/>neſſe. They ſay <hi>nullu<g ref="char:cmbAbbrStroke">̄</g> mag<g ref="char:EOLhyphen"/>num ingenium ſine mixtu<g ref="char:EOLhyphen"/>râ dementiae;</hi> but it may be very well verified of great fortunes, and with the <hi>Satyriſt, Raro fortuna ſenſus communis in illa;</hi> &amp; the ſame gave occaſion to <hi>Solomon,</hi> after he had repeated a catalogue of his pleaſures, and works of magnanimity, to note that
+<pb n="131" facs="tcp:17310:70"/> in the midſt of all theſe, that ſtill his wiſedome re<g ref="char:EOLhyphen"/>mained with him, to ſhew the difficulty of the con<g ref="char:EOLhyphen"/>junction of wealth and wiſedome.</p>
+               </div>
+               <div type="section">
+                  <head>Of making many books there is no end.</head>
+                  <p>THis is caution, which extends it ſelfe as well to the reading, as writing of Books: a multiplicity in either, is both diſtracti<g ref="char:EOLhyphen"/>on &amp; trouble; for as in rea<g ref="char:EOLhyphen"/>ding it is a great part of a ſcholler, to know what
+<pb n="132" facs="tcp:17310:71"/> he ought to read, ſitting &amp; ſuiting with the know<g ref="char:EOLhyphen"/>ledge of that which hee deſires: ſo in writing its a great care to bee had in the choyſe of the ſubject, that it bee fited to the ſtrength of his owne abili<g ref="char:EOLhyphen"/>ty: <hi>Quid valeant humeri quid non,</hi> ſaith the Poet: Moſt books that are writ, doe rather increaſe lear<g ref="char:EOLhyphen"/>ning in the bulk and big<g ref="char:EOLhyphen"/>nes, than in vertue &amp; ſpi<g ref="char:EOLhyphen"/>rit. It is no ſmal diſtemper in the labours of the lear<g ref="char:EOLhyphen"/>ned, when they turne the ends of their labours for eſtimation, which deſtroi<g ref="char:EOLhyphen"/>eth the eſtimation of their
+<pb n="133" facs="tcp:17310:71"/> labours, when they rather taſte of the ſpirit of vani<g ref="char:EOLhyphen"/>ty, then are undertaken, through a deſire of the in<g ref="char:EOLhyphen"/>formation of others. They chuſe a ſubject rather to vant their owne wit, then thoſe whereby they may advance piety: which is that which <hi>Solomon</hi> addes as a corolary to his diſ<g ref="char:EOLhyphen"/>courſe, and a perfection to all humane actions: for if they looke not towards the Temple or ſome profit of man, me thinkes Sir <hi>Walter Raleigh</hi> hath well pronounced them fooles in print.</p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <pb facs="tcp:17310:72"/>
+            <head>Errata.</head>
+            <p>PAge 3. line penul. read honorante. P. 14. L. 16. read deſerve for diſ<g ref="char:EOLhyphen"/>cerne. P. 16. L. 12. del. in. P. 27. L. 2. for imitation read imagination: &amp; L. ultim. read Politicke. P. 28. L. 4. del. to. P. 75. L. 12. read for<g ref="char:EOLhyphen"/>ward for froward.</p>
+            <pb facs="tcp:17310:72" rendition="simple:additions"/>
+         </div>
+      </back>
+   </text>
+</TEI>
